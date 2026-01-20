@@ -63,7 +63,7 @@ Contains:
 - `output.csv`
 
 📌 **PyPI Package Name:** `Topsis-Charu-102303113`  
-📌 **PyPI Link:** *(paste your PyPI link here)*
+📌 **PyPI Link:** https://pypi.org/project/Topsis-Charu-102303113/1.0.1/
 
 ---
 
