@@ -84,25 +84,39 @@ Open terminal inside `Task-1_CLI/` and run:
 ```bash
 python topsis.py input.csv "1,1,1,1" "+,+,-,+" output.csv
 ```
- Task 2: Install and Run PyPI Package
+# Task 2: Install and Run PyPI Package
+
+### Command
  Open terminal inside Task-2 folder:
+ ```bash
 cd Task-2_Package_PyPI
-
+```
+### Command
  Install package from PyPI:
+ ```
 pip install Topsis-Charu-102303113
-
+```
+### Command
  One-line package test command:
+ ```
 python -c "from topsis_charu_102303113.topsis import topsis; topsis('input.csv','1,1,1,1','+,+,-,+','output.csv'); print('✅ output.csv generated')"
-
-Task 3: Run Web App (Flask + Email)
+```
+#Task 3: Run Web App (Flask + Email)
+### Command
  Open terminal inside Task-3 folder:
+ ```
 cd Task-3_WebApp
-
+```
+### Command
  Install dependencies:
+ ```
 python -m pip install -r requirements.txt
-
+```
+### Command
  Start Flask server:
+ ```
 python app.py
+```
 
- Open in browser:
+ ###Open in browser:
 http://127.0.0.1:5000
